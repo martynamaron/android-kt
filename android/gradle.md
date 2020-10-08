@@ -1,4 +1,4 @@
-## Gradle
+## Gradle
 
 Gradle is a build automation system that uses a domain-specific language to describe the app's project structure, configuration, and dependencies.
 
